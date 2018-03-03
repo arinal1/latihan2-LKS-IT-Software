@@ -1,0 +1,13 @@
+c:\users\arinal\documents\visual studio 2015\Projects\latihan2\latihan2\bin\Debug\latihan2.exe.config
+c:\users\arinal\documents\visual studio 2015\Projects\latihan2\latihan2\bin\Debug\latihan2.exe
+c:\users\arinal\documents\visual studio 2015\Projects\latihan2\latihan2\bin\Debug\latihan2.pdb
+c:\users\arinal\documents\visual studio 2015\Projects\latihan2\latihan2\bin\Debug\latihan2.xml
+c:\users\arinal\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.vbprojResolveAssemblyReference.cache
+c:\users\arinal\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.MainMenu.resources
+c:\users\arinal\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.Resources.resources
+c:\users\arinal\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.vbproj.GenerateResource.Cache
+c:\users\arinal\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.exe
+c:\users\arinal\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.xml
+c:\users\arinal\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.pdb
+c:\users\arinal\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.formLogin.resources
+c:\users\arinal\documents\visual studio 2015\Projects\latihan2\latihan2\obj\Debug\latihan2.formRoti.resources
